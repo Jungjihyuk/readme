@@ -21,8 +21,6 @@
 
 3️⃣ `Organize scattered answers` 
 
-<hr>
-
 
 
 https://github.com/user-attachments/assets/dfb2cb35-c4ba-4200-b92e-357688b5b479
