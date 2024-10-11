@@ -23,7 +23,10 @@
 
 <hr>
 
-https://github.com/user-attachments/assets/5250cb1d-e67f-437b-a257-59d5d73709c2
+
+
+https://github.com/user-attachments/assets/dfb2cb35-c4ba-4200-b92e-357688b5b479
+
 
 
 ## <div align="center">Service architecture</div>
